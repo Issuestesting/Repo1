@@ -1,0 +1,10 @@
+Required elements for reporting an issue that failed verification:
+1.  Link to the failing test.
+2.  Version used in the failure.
+3.  List design and requirement numbers the test affects.
+
+Select label "Failing Verification" plus labels for severity, if blocking, and component.
+
+Select Project.
+
+Select Milestone.
